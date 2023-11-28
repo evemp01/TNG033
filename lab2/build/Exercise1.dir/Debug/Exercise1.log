@@ -1,0 +1,9 @@
+﻿  expression.cpp
+  polynomial.cpp
+C:\Users\bergs\TNG033\lab2\code\polynomial.cpp(15,20): warning C4388: '<': signed/unsigned mismatch
+C:\Users\bergs\TNG033\lab2\code\polynomial.cpp(23,20): warning C4388: '<': signed/unsigned mismatch
+  logarithm.cpp
+  test.cpp
+C:\Users\bergs\TNG033\lab2\code\test.cpp(14): fatal  error C1075: '{': no matching token found
+  Generating Code...
+C:\Users\bergs\TNG033\lab2\code\polynomial.cpp(31): error C4716: 'Polynomial::operator+=': must return a value
